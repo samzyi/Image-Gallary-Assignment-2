@@ -1,0 +1,23 @@
+
+
+img{
+  width:80%;
+}
+
+
+
+.ROW{
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.ROW1, .ROW2{
+  //background: green;
+  width:30%;
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
